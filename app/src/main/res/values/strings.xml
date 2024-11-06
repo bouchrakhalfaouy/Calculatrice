@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seance2</string>
+    <string name="mc">MC</string>
+    <string name="mr">MR</string>
+    <string name="mplus">M+</string>
+    <string name="mminus">M-</string>
+    <string name="ms">MS</string>
+
+</resources>
